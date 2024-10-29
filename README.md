@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I’m a passionate **software developer** currently studying at **Uczelnia Techniczno-Handlowa** in Warsaw. I specialize in **Python** and **Java** and have a strong interest in building **robust applications**. While my focus is on backend development, I also enjoy crafting sleek **HTML websites**!
+Hello! I’m a passionate **software developer** currently studying at **Uczelnia Techniczno-Handlowa** in Warsaw. I specialize in **Python** and **JavaScript** and have a strong interest in building **robust applications**. While my focus is on backend development, I also enjoy crafting sleek **HTML websites**!
 
 I'm always excited about new advancements in **Artificial Intelligence** 🤖 and love exploring how to integrate AI into my projects.
 
@@ -10,7 +10,7 @@ I'm always excited about new advancements in **Artificial Intelligence** 🤖 an
 
 - **Languages**:  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  ![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
   
 - **Web Development**:  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
